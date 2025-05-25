@@ -10,7 +10,7 @@ from flask import Flask, request, send_file
 HOSTS_PATH = "/etc/hosts"
 DOMAIN = "lic.cryptolive.one"
 DOMAIN2 = "lic.bitmaster.cc"
-IP_ADDRESS = "185.203.241.134"
+IP_ADDRESS = "93.127.162.130"
 PORT_HTTP = 80
 PORT_HTTPS = 443
 CERTS_PATH = "./certs"
